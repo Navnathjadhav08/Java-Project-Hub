@@ -24,7 +24,7 @@ This Java application demonstrates a simple chat server and client using Swing f
      javac ServerGUI.java
      javac ClientGUI.java
      ```
-     ![Terminal](images/comandprompt.png)
+     ![Terminal](Images/comandprompt.png)
 
 2. **Run the Server:**
    - Start the server by running the compiled `ServerGUI` class:
@@ -33,7 +33,7 @@ This Java application demonstrates a simple chat server and client using Swing f
      java ServerGUI
      ```
 
-   ![Server GUI](images/server.png)
+   ![Server GUI](Images/server.png)
 
 3. **Run the Client:**
    - Open a new terminal and run the compiled `ClientGUI` class:
@@ -42,22 +42,22 @@ This Java application demonstrates a simple chat server and client using Swing f
      java ClientGUI
      ```
 
-   ![Client GUI](images/client.png)
+   ![Client GUI](Images/client.png)
 
 4. **Chatting:**
    - Once both the server and client are running, you can type messages in the client and send them to the server.
    - The server will display the received messages in the GUI.
-   ![Chatting](images/apllication.png)
+   ![Chatting](Images/apllication.png)
 
 5. **Log Saving:**
    - Click the "Log" button in the server or client GUI to save the chat log to a file.
 
-   ![Chat Log](images/logsave.png)
+   ![Chat Log](Images/logsave.png)
 
    - log save in the file server_log.txt and client_log.txt file in current directory.
 
    
-   ![Chat Log](images/logfile.png)
+   ![Chat Log](Images/logfile.png)
 
    
 
