@@ -119,6 +119,10 @@ This project is a Java-based database management system (DBMS) application desig
   Thank you for using DBMS...
   ```
 
+## Knowledge Gained
+
+Through this project, I have gained a deeper understanding of database management systems, including fundamental operations such as inserting, updating, deleting, and querying records. I have learned to handle file I/O for data persistence using CSV files, implement record uniqueness using hashing, and enhance code efficiency with the Stream API. This project has strengthened my skills in Java programming, particularly in the context of data management and application design, and provided practical insights into the development and optimization of DBMS applications.
+
 
 ## Notes
 
