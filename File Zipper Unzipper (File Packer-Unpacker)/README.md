@@ -62,7 +62,7 @@ Include a screenshot showing the initial login screen of your application.
 - **Description:** The initial login screen where users enter their credentials.
 
 ```markdown
-![Login Screen](images/login_screen.png)
+![Login Screen](packerunpacker/Images/Login_Screen.png)
 ```
 
 ### 2. Successful Login
@@ -120,7 +120,7 @@ Show the final screen or a success message after completing an operation.
 ## Demo
 
 ### 1. Launch the Application
-![Login Screen](images/login_screen.png)
+![Login Screen](packerunpacker/Images/Login_Screen.png)
 
 ### 2. Successful Login
 ![Main Interface](images/main_interface.png)
